@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/pigdice4_0.dir/main.cpp.o CMakeFiles/pigdice4_0.dir/die.cpp.o CMakeFiles/pigdice4_0.dir/turn.cpp.o CMakeFiles/pigdice4_0.dir/game.cpp.o CMakeFiles/pigdice4_0.dir/newgame.cpp.o CMakeFiles/pigdice4_0.dir/player.cpp.o -o pigdice4_0
