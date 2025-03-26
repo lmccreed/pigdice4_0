@@ -4,7 +4,7 @@
 #include "turn.h"
 
 class Game {
-private:
+protected:
     bool game_over;
     int game_score;
     Turn myturn;

@@ -1,12 +1,10 @@
 #include <iostream>
-#include "game.h"
-#include "turn.h"
+#include "newgame.h"
 
 using namespace std;
 
 int main(){
-    Game mygame;
-    mygame.display_rules();
-    mygame.play_game();
+    NewGame game;
+    game.play_game();
     return 0;
 }

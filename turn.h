@@ -22,6 +22,7 @@ private:
         }
     void take_turn (int& game_score, bool & game_over) ;
     int getturn ();
+    int getscoreturn();
 };
 
 #endif //TURN_H

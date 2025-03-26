@@ -9,4 +9,8 @@ add_executable(pigdice4_0 main.cpp
         game.cpp
         die.h
         turn.h
-        game.h)
+        game.h
+        "newgame.cpp"
+        newgame.h
+        player.cpp
+        player.h)
